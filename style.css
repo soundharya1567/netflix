@@ -3,9 +3,6 @@ body{
     background:rgba(0, 0, 0, 0.6) url('http://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg');
     background-blend-mode: darken;
     }
-.logo{
-width:12%;
-}
 .button2{
 padding:8px 15px;
 color:#fff;
@@ -60,4 +57,5 @@ background-color: #e50914;
 color: #fff;
 padding: 18px 12px;
         text-decoration: none;
+
     }
