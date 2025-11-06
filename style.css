@@ -1,6 +1,6 @@
 body{
     font-family:'Franklin Gothic Medium', 'arial Narrow', Arial, sans-serif;
-    background:rgba(0, 0, 0, 0.6) url('http://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg');
+    background: rgba(0, 0, 0, 0.6) url('https://images.pexels.com/photos/799137/pexels-photo-799137.jpeg');
     background-blend-mode: darken;
     }
 .button2{
@@ -12,9 +12,9 @@ text-decoration:none;
 cursor:pointer;
 }
 .nav{
-padding-top=5px;
-padding-left=2vw;
-padding-right=5vw;
+padding-top:5px;
+padding-left:2vw;
+padding-right:5vw;
 height:10vh;
 display:flex;
 justify-content:space-between;
@@ -59,3 +59,4 @@ padding: 18px 12px;
         text-decoration: none;
 
     }
+
